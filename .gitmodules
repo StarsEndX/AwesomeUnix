@@ -1,0 +1,15 @@
+[submodule "vendor/ohmyzsh"]
+	path = vendor/ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "vendor/nvm"]
+	path = vendor/nvm
+	url = https://github.com/nvm-sh/nvm.git
+[submodule "vendor/sdkman"]
+	path = vendor/sdkman
+	url = https://github.com/sdkman/sdkman-cli.git
+[submodule "vendor/pnpm"]
+	path = vendor/pnpm
+	url = https://github.com/pnpm/pnpm.git
+[submodule "vendor/brew"]
+	path = vendor/brew
+	url = https://github.com/Homebrew/brew.git
